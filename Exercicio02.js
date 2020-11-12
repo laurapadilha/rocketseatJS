@@ -7,4 +7,4 @@ function pares (x, y) {
         x++
     }
 }
-pares(32, 321);
+pares (32, 321);
