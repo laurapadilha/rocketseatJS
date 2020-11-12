@@ -11,4 +11,4 @@ function enderecoCompleto (endereco) {
     return retorno;
 };
 
-console.log(enderecoCompleto(endereco));
+console.log (enderecoCompleto (endereco));
